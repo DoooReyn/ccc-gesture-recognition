@@ -21,4 +21,4 @@ PS：
 如果有更好的方法或者图形识别的 js库烦请告知，谢谢。
 
 
-[!截图演示](https://github.com/DoooReyn/ccc-gesture-recognition/blob/master/screenshot.png)
+![截图演示](./screenshot.png)
