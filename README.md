@@ -17,4 +17,8 @@
 - 微信小游戏不允许加载 json文件，直接将 json配置改为导出 js文件然后导出变量即可。
 
 PS：
+
 如果有更好的方法或者图形识别的 js库烦请告知，谢谢。
+
+
+[!截图演示](https://github.com/DoooReyn/ccc-gesture-recognition/blob/master/screenshot.png)
