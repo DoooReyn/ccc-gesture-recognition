@@ -1,5 +1,8 @@
 # ccc-gesture-recognition
 
+**2022.03.03 重要更新：本项目已废弃，但可以当作学习使用，目前已经有了更新方案，请参考: [手势识别与训练模型](https://wu57.cn/Game/gestures/)。**
+
+
 本项目是基于Cocos Creator完成的一个手势识别项目demo，目前demo只添加了数字0-9的识别库，其他有需要请自行去[训练模型](http://uwdata.github.io/gestrec/)中添加后导出自用。
 
 项目中关键的手势识别的技术使用的是 [gesrec](https://github.com/uwdata/gestrec)。
